@@ -46,6 +46,11 @@ h1,h2,h3,h4,h5,h6{
 .clear-div{
     clear: both;
 }
+
+.check {
+ display: flex;   
+}
+
 hr{
     border: 5px solid black;
     width: 99%;
